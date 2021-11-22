@@ -8,7 +8,8 @@ namespace OddEvenNumber
         {
             Console.WriteLine(5 % 2);
             Console.WriteLine(6 % 3);
-            Console.WriteLine(10 % 4);Console.WriteLine(10 % 4);Console.WriteLine(10 % 4);
+            Console.WriteLine(10 % 4);
+            Console.ReadLine();
         }
     }
 }
