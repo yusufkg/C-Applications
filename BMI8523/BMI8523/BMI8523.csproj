@@ -4,15 +4,14 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{33AF5960-733C-4CC1-AE26-C2643F8DFC7B}</ProjectGuid>
+    <ProjectGuid>{461F72CB-E5D2-4AFE-AC8D-D41E371D0FDB}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>DataTypesandVariables</RootNamespace>
-    <AssemblyName>DataTypesandVariables</AssemblyName>
-    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <RootNamespace>BMI8523</RootNamespace>
+    <AssemblyName>BMI8523</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
-    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>

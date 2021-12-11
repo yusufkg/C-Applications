@@ -100,7 +100,6 @@ namespace DataTypesandVariables
             Console.WriteLine(Gunler.Pazartesi+" "+(int) Gunler.Pazartesi);
             Console.ReadLine();
 
-
             var adSoyad ="Yusuf Kenan GİRGİN";
             string ad1;
             Console.ReadLine();
