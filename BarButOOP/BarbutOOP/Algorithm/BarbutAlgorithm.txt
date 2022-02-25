@@ -1,0 +1,11 @@
+﻿
+1) Başla
+2) Kullanıcı zar Atma Butonuna Tıklar.
+3) İki zar atılır.
+4) Eğer 1. Zar 2. Zardan büyükse 
+5) 1. Zarın kazandığı bilgisi listeye eklenir.
+6) Eğer 2. Zar 1. Zardan büyükse
+7) 2. Zarın kazandığı bilgisi listeye eklenir.
+8) Eğer 1. Zar 2. Zara eşitse
+9) 3. Madde olan ‘’İki zar atılır’’ kısmına dönülür.
+10) Bitir.
