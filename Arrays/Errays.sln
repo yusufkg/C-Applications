@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Errays", "Errays\Errays.csproj", "{4B047E48-0896-4D02-9856-0ED55371F4AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IliskiTesti", "IliskiTesti\IliskiTesti.csproj", "{CC4C6CCF-32A0-437B-A925-F04FC0CD98A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B047E48-0896-4D02-9856-0ED55371F4AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B047E48-0896-4D02-9856-0ED55371F4AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B047E48-0896-4D02-9856-0ED55371F4AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B047E48-0896-4D02-9856-0ED55371F4AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC4C6CCF-32A0-437B-A925-F04FC0CD98A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC4C6CCF-32A0-437B-A925-F04FC0CD98A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC4C6CCF-32A0-437B-A925-F04FC0CD98A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC4C6CCF-32A0-437B-A925-F04FC0CD98A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6BD1F00-5C07-4446-A631-45CA5712D20F}
+	EndGlobalSection
+EndGlobal
