@@ -70,7 +70,6 @@ namespace Errays
             #endregion
 
             Console.ReadLine();
-
         }
 
         private static void BolgeSehirYazdir(string[,] bolgelerVeSehirler)
