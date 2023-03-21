@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\ykg\\Web Tasarım\\C# Dersleri\\MerhabaDünyaÖrneği\\MerhabaDünyaÖrneği\\MerhabaDünyaÖrneği.csproj": {}
+  },
+  "projects": {
+    "G:\\ykg\\Web Tasarım\\C# Dersleri\\MerhabaDünyaÖrneği\\MerhabaDünyaÖrneği\\MerhabaDünyaÖrneği.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\ykg\\Web Tasarım\\C# Dersleri\\MerhabaDünyaÖrneği\\MerhabaDünyaÖrneği\\MerhabaDünyaÖrneği.csproj",
+        "projectName": "MerhabaDünyaÖrneği",
+        "projectPath": "G:\\ykg\\Web Tasarım\\C# Dersleri\\MerhabaDünyaÖrneği\\MerhabaDünyaÖrneği\\MerhabaDünyaÖrneği.csproj",
+        "packagesPath": "C:\\Users\\mustafakemal\\.nuget\\packages\\",
+        "outputPath": "G:\\ykg\\Web Tasarım\\C# Dersleri\\MerhabaDünyaÖrneği\\MerhabaDünyaÖrneği\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mustafakemal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.114\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

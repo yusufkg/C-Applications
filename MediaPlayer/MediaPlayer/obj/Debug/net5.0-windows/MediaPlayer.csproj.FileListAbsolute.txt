@@ -1,0 +1,17 @@
+G:\ykg\Web Tasarım\C# Dersleri\MediaPlayer\MediaPlayer\bin\Debug\net5.0-windows\MediaPlayer.exe
+G:\ykg\Web Tasarım\C# Dersleri\MediaPlayer\MediaPlayer\bin\Debug\net5.0-windows\MediaPlayer.deps.json
+G:\ykg\Web Tasarım\C# Dersleri\MediaPlayer\MediaPlayer\bin\Debug\net5.0-windows\MediaPlayer.runtimeconfig.json
+G:\ykg\Web Tasarım\C# Dersleri\MediaPlayer\MediaPlayer\bin\Debug\net5.0-windows\MediaPlayer.runtimeconfig.dev.json
+G:\ykg\Web Tasarım\C# Dersleri\MediaPlayer\MediaPlayer\bin\Debug\net5.0-windows\MediaPlayer.dll
+G:\ykg\Web Tasarım\C# Dersleri\MediaPlayer\MediaPlayer\bin\Debug\net5.0-windows\ref\MediaPlayer.dll
+G:\ykg\Web Tasarım\C# Dersleri\MediaPlayer\MediaPlayer\bin\Debug\net5.0-windows\MediaPlayer.pdb
+G:\ykg\Web Tasarım\C# Dersleri\MediaPlayer\MediaPlayer\obj\Debug\net5.0-windows\MediaPlayer.Form1.resources
+G:\ykg\Web Tasarım\C# Dersleri\MediaPlayer\MediaPlayer\obj\Debug\net5.0-windows\MediaPlayer.csproj.GenerateResource.cache
+G:\ykg\Web Tasarım\C# Dersleri\MediaPlayer\MediaPlayer\obj\Debug\net5.0-windows\MediaPlayer.GeneratedMSBuildEditorConfig.editorconfig
+G:\ykg\Web Tasarım\C# Dersleri\MediaPlayer\MediaPlayer\obj\Debug\net5.0-windows\MediaPlayer.AssemblyInfoInputs.cache
+G:\ykg\Web Tasarım\C# Dersleri\MediaPlayer\MediaPlayer\obj\Debug\net5.0-windows\MediaPlayer.AssemblyInfo.cs
+G:\ykg\Web Tasarım\C# Dersleri\MediaPlayer\MediaPlayer\obj\Debug\net5.0-windows\MediaPlayer.csproj.CoreCompileInputs.cache
+G:\ykg\Web Tasarım\C# Dersleri\MediaPlayer\MediaPlayer\obj\Debug\net5.0-windows\MediaPlayer.dll
+G:\ykg\Web Tasarım\C# Dersleri\MediaPlayer\MediaPlayer\obj\Debug\net5.0-windows\ref\MediaPlayer.dll
+G:\ykg\Web Tasarım\C# Dersleri\MediaPlayer\MediaPlayer\obj\Debug\net5.0-windows\MediaPlayer.pdb
+G:\ykg\Web Tasarım\C# Dersleri\MediaPlayer\MediaPlayer\obj\Debug\net5.0-windows\MediaPlayer.genruntimeconfig.cache

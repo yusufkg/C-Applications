@@ -1,0 +1,17 @@
+G:\ykg\Web Tasarım\C# Dersleri\Random1\Random1\bin\Debug\net5.0-windows\Random1.exe
+G:\ykg\Web Tasarım\C# Dersleri\Random1\Random1\bin\Debug\net5.0-windows\Random1.deps.json
+G:\ykg\Web Tasarım\C# Dersleri\Random1\Random1\bin\Debug\net5.0-windows\Random1.runtimeconfig.json
+G:\ykg\Web Tasarım\C# Dersleri\Random1\Random1\bin\Debug\net5.0-windows\Random1.runtimeconfig.dev.json
+G:\ykg\Web Tasarım\C# Dersleri\Random1\Random1\bin\Debug\net5.0-windows\Random1.dll
+G:\ykg\Web Tasarım\C# Dersleri\Random1\Random1\bin\Debug\net5.0-windows\ref\Random1.dll
+G:\ykg\Web Tasarım\C# Dersleri\Random1\Random1\bin\Debug\net5.0-windows\Random1.pdb
+G:\ykg\Web Tasarım\C# Dersleri\Random1\Random1\obj\Debug\net5.0-windows\Random1.Form1.resources
+G:\ykg\Web Tasarım\C# Dersleri\Random1\Random1\obj\Debug\net5.0-windows\Random1.csproj.GenerateResource.cache
+G:\ykg\Web Tasarım\C# Dersleri\Random1\Random1\obj\Debug\net5.0-windows\Random1.GeneratedMSBuildEditorConfig.editorconfig
+G:\ykg\Web Tasarım\C# Dersleri\Random1\Random1\obj\Debug\net5.0-windows\Random1.AssemblyInfoInputs.cache
+G:\ykg\Web Tasarım\C# Dersleri\Random1\Random1\obj\Debug\net5.0-windows\Random1.AssemblyInfo.cs
+G:\ykg\Web Tasarım\C# Dersleri\Random1\Random1\obj\Debug\net5.0-windows\Random1.csproj.CoreCompileInputs.cache
+G:\ykg\Web Tasarım\C# Dersleri\Random1\Random1\obj\Debug\net5.0-windows\Random1.dll
+G:\ykg\Web Tasarım\C# Dersleri\Random1\Random1\obj\Debug\net5.0-windows\ref\Random1.dll
+G:\ykg\Web Tasarım\C# Dersleri\Random1\Random1\obj\Debug\net5.0-windows\Random1.pdb
+G:\ykg\Web Tasarım\C# Dersleri\Random1\Random1\obj\Debug\net5.0-windows\Random1.genruntimeconfig.cache
