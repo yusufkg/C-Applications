@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatematikHesaplamaları", "MatematikHesaplamaları\MatematikHesaplamaları.csproj", "{6B664CE2-7D48-441A-9058-F28C4C64294F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B664CE2-7D48-441A-9058-F28C4C64294F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B664CE2-7D48-441A-9058-F28C4C64294F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B664CE2-7D48-441A-9058-F28C4C64294F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B664CE2-7D48-441A-9058-F28C4C64294F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6FB1271-CAAC-4B67-94C1-0C03C132BD07}
+	EndGlobalSection
+EndGlobal
