@@ -1,0 +1,10 @@
+G:\ykg\github\C-Sharp-Application\Radio Button\Radio Button\bin\Debug\Radio Button.exe.config
+G:\ykg\github\C-Sharp-Application\Radio Button\Radio Button\bin\Debug\Radio Button.exe
+G:\ykg\github\C-Sharp-Application\Radio Button\Radio Button\bin\Debug\Radio Button.pdb
+G:\ykg\github\C-Sharp-Application\Radio Button\Radio Button\obj\Debug\Radio Button.csproj.AssemblyReference.cache
+G:\ykg\github\C-Sharp-Application\Radio Button\Radio Button\obj\Debug\Radio_Button.Form1.resources
+G:\ykg\github\C-Sharp-Application\Radio Button\Radio Button\obj\Debug\Radio_Button.Properties.Resources.resources
+G:\ykg\github\C-Sharp-Application\Radio Button\Radio Button\obj\Debug\Radio Button.csproj.GenerateResource.cache
+G:\ykg\github\C-Sharp-Application\Radio Button\Radio Button\obj\Debug\Radio Button.csproj.CoreCompileInputs.cache
+G:\ykg\github\C-Sharp-Application\Radio Button\Radio Button\obj\Debug\Radio Button.exe
+G:\ykg\github\C-Sharp-Application\Radio Button\Radio Button\obj\Debug\Radio Button.pdb

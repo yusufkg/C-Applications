@@ -1,0 +1,19 @@
+G:\ykg\github\C-Sharp-Application\Seyahat Örnek\Seyahat Örnek\bin\Debug\net5.0-windows\Seyahat Örnek.exe
+G:\ykg\github\C-Sharp-Application\Seyahat Örnek\Seyahat Örnek\bin\Debug\net5.0-windows\Seyahat Örnek.deps.json
+G:\ykg\github\C-Sharp-Application\Seyahat Örnek\Seyahat Örnek\bin\Debug\net5.0-windows\Seyahat Örnek.runtimeconfig.json
+G:\ykg\github\C-Sharp-Application\Seyahat Örnek\Seyahat Örnek\bin\Debug\net5.0-windows\Seyahat Örnek.runtimeconfig.dev.json
+G:\ykg\github\C-Sharp-Application\Seyahat Örnek\Seyahat Örnek\bin\Debug\net5.0-windows\Seyahat Örnek.dll
+G:\ykg\github\C-Sharp-Application\Seyahat Örnek\Seyahat Örnek\bin\Debug\net5.0-windows\ref\Seyahat Örnek.dll
+G:\ykg\github\C-Sharp-Application\Seyahat Örnek\Seyahat Örnek\bin\Debug\net5.0-windows\Seyahat Örnek.pdb
+G:\ykg\github\C-Sharp-Application\Seyahat Örnek\Seyahat Örnek\obj\Debug\net5.0-windows\Seyahat Örnek.csproj.AssemblyReference.cache
+G:\ykg\github\C-Sharp-Application\Seyahat Örnek\Seyahat Örnek\obj\Debug\net5.0-windows\Seyahat_Örnek.Form1.resources
+G:\ykg\github\C-Sharp-Application\Seyahat Örnek\Seyahat Örnek\obj\Debug\net5.0-windows\Seyahat_Örnek.Form2.resources
+G:\ykg\github\C-Sharp-Application\Seyahat Örnek\Seyahat Örnek\obj\Debug\net5.0-windows\Seyahat Örnek.csproj.GenerateResource.cache
+G:\ykg\github\C-Sharp-Application\Seyahat Örnek\Seyahat Örnek\obj\Debug\net5.0-windows\Seyahat Örnek.GeneratedMSBuildEditorConfig.editorconfig
+G:\ykg\github\C-Sharp-Application\Seyahat Örnek\Seyahat Örnek\obj\Debug\net5.0-windows\Seyahat Örnek.AssemblyInfoInputs.cache
+G:\ykg\github\C-Sharp-Application\Seyahat Örnek\Seyahat Örnek\obj\Debug\net5.0-windows\Seyahat Örnek.AssemblyInfo.cs
+G:\ykg\github\C-Sharp-Application\Seyahat Örnek\Seyahat Örnek\obj\Debug\net5.0-windows\Seyahat Örnek.csproj.CoreCompileInputs.cache
+G:\ykg\github\C-Sharp-Application\Seyahat Örnek\Seyahat Örnek\obj\Debug\net5.0-windows\Seyahat Örnek.dll
+G:\ykg\github\C-Sharp-Application\Seyahat Örnek\Seyahat Örnek\obj\Debug\net5.0-windows\ref\Seyahat Örnek.dll
+G:\ykg\github\C-Sharp-Application\Seyahat Örnek\Seyahat Örnek\obj\Debug\net5.0-windows\Seyahat Örnek.pdb
+G:\ykg\github\C-Sharp-Application\Seyahat Örnek\Seyahat Örnek\obj\Debug\net5.0-windows\Seyahat Örnek.genruntimeconfig.cache

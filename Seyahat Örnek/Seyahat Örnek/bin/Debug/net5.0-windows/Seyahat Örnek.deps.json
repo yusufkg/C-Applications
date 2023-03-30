@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Seyahat Örnek/1.0.0": {
+        "runtime": {
+          "Seyahat Örnek.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Seyahat Örnek/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

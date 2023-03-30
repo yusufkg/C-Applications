@@ -1,0 +1,11 @@
+G:\ykg\github\C-Sharp-Application\İstanbu Kocaeli Seyahat\İstanbu Kocaeli Seyahat\bin\Debug\İstanbu Kocaeli Seyahat.exe.config
+G:\ykg\github\C-Sharp-Application\İstanbu Kocaeli Seyahat\İstanbu Kocaeli Seyahat\bin\Debug\İstanbu Kocaeli Seyahat.exe
+G:\ykg\github\C-Sharp-Application\İstanbu Kocaeli Seyahat\İstanbu Kocaeli Seyahat\bin\Debug\İstanbu Kocaeli Seyahat.pdb
+G:\ykg\github\C-Sharp-Application\İstanbu Kocaeli Seyahat\İstanbu Kocaeli Seyahat\obj\Debug\İstanbu Kocaeli Seyahat.csproj.AssemblyReference.cache
+G:\ykg\github\C-Sharp-Application\İstanbu Kocaeli Seyahat\İstanbu Kocaeli Seyahat\obj\Debug\İstanbu_Kocaeli_Seyahat.Form1.resources
+G:\ykg\github\C-Sharp-Application\İstanbu Kocaeli Seyahat\İstanbu Kocaeli Seyahat\obj\Debug\İstanbu_Kocaeli_Seyahat.Form2.resources
+G:\ykg\github\C-Sharp-Application\İstanbu Kocaeli Seyahat\İstanbu Kocaeli Seyahat\obj\Debug\İstanbu_Kocaeli_Seyahat.Properties.Resources.resources
+G:\ykg\github\C-Sharp-Application\İstanbu Kocaeli Seyahat\İstanbu Kocaeli Seyahat\obj\Debug\İstanbu Kocaeli Seyahat.csproj.GenerateResource.cache
+G:\ykg\github\C-Sharp-Application\İstanbu Kocaeli Seyahat\İstanbu Kocaeli Seyahat\obj\Debug\İstanbu Kocaeli Seyahat.csproj.CoreCompileInputs.cache
+G:\ykg\github\C-Sharp-Application\İstanbu Kocaeli Seyahat\İstanbu Kocaeli Seyahat\obj\Debug\İstanbu Kocaeli Seyahat.exe
+G:\ykg\github\C-Sharp-Application\İstanbu Kocaeli Seyahat\İstanbu Kocaeli Seyahat\obj\Debug\İstanbu Kocaeli Seyahat.pdb

@@ -1,0 +1,15 @@
+G:\ykg\github\Radyo Csharp\Radyo Csharp\bin\Debug\Radyo Csharp.exe.config
+G:\ykg\github\Radyo Csharp\Radyo Csharp\bin\Debug\Radyo Csharp.exe
+G:\ykg\github\Radyo Csharp\Radyo Csharp\bin\Debug\Radyo Csharp.pdb
+G:\ykg\github\Radyo Csharp\Radyo Csharp\bin\Debug\Interop.WMPLib.dll
+G:\ykg\github\Radyo Csharp\Radyo Csharp\bin\Debug\AxInterop.WMPLib.dll
+G:\ykg\github\Radyo Csharp\Radyo Csharp\obj\Debug\Radyo Csharp.csproj.AssemblyReference.cache
+G:\ykg\github\Radyo Csharp\Radyo Csharp\obj\Debug\Interop.WMPLib.dll
+G:\ykg\github\Radyo Csharp\Radyo Csharp\obj\Debug\AxInterop.WMPLib.dll
+G:\ykg\github\Radyo Csharp\Radyo Csharp\obj\Debug\Radyo Csharp.csproj.ResolveComReference.cache
+G:\ykg\github\Radyo Csharp\Radyo Csharp\obj\Debug\Radyo_Csharp.Form1.resources
+G:\ykg\github\Radyo Csharp\Radyo Csharp\obj\Debug\Radyo_Csharp.Properties.Resources.resources
+G:\ykg\github\Radyo Csharp\Radyo Csharp\obj\Debug\Radyo Csharp.csproj.GenerateResource.cache
+G:\ykg\github\Radyo Csharp\Radyo Csharp\obj\Debug\Radyo Csharp.csproj.CoreCompileInputs.cache
+G:\ykg\github\Radyo Csharp\Radyo Csharp\obj\Debug\Radyo Csharp.exe
+G:\ykg\github\Radyo Csharp\Radyo Csharp\obj\Debug\Radyo Csharp.pdb

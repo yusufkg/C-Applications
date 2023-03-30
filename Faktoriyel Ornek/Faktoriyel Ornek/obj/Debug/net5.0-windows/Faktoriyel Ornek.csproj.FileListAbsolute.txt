@@ -1,0 +1,17 @@
+G:\ykg\github\Faktoriyel Ornek\Faktoriyel Ornek\bin\Debug\net5.0-windows\Faktoriyel Ornek.exe
+G:\ykg\github\Faktoriyel Ornek\Faktoriyel Ornek\bin\Debug\net5.0-windows\Faktoriyel Ornek.deps.json
+G:\ykg\github\Faktoriyel Ornek\Faktoriyel Ornek\bin\Debug\net5.0-windows\Faktoriyel Ornek.runtimeconfig.json
+G:\ykg\github\Faktoriyel Ornek\Faktoriyel Ornek\bin\Debug\net5.0-windows\Faktoriyel Ornek.runtimeconfig.dev.json
+G:\ykg\github\Faktoriyel Ornek\Faktoriyel Ornek\bin\Debug\net5.0-windows\Faktoriyel Ornek.dll
+G:\ykg\github\Faktoriyel Ornek\Faktoriyel Ornek\bin\Debug\net5.0-windows\ref\Faktoriyel Ornek.dll
+G:\ykg\github\Faktoriyel Ornek\Faktoriyel Ornek\bin\Debug\net5.0-windows\Faktoriyel Ornek.pdb
+G:\ykg\github\Faktoriyel Ornek\Faktoriyel Ornek\obj\Debug\net5.0-windows\Faktoriyel_Ornek.Form1.resources
+G:\ykg\github\Faktoriyel Ornek\Faktoriyel Ornek\obj\Debug\net5.0-windows\Faktoriyel Ornek.csproj.GenerateResource.cache
+G:\ykg\github\Faktoriyel Ornek\Faktoriyel Ornek\obj\Debug\net5.0-windows\Faktoriyel Ornek.GeneratedMSBuildEditorConfig.editorconfig
+G:\ykg\github\Faktoriyel Ornek\Faktoriyel Ornek\obj\Debug\net5.0-windows\Faktoriyel Ornek.AssemblyInfoInputs.cache
+G:\ykg\github\Faktoriyel Ornek\Faktoriyel Ornek\obj\Debug\net5.0-windows\Faktoriyel Ornek.AssemblyInfo.cs
+G:\ykg\github\Faktoriyel Ornek\Faktoriyel Ornek\obj\Debug\net5.0-windows\Faktoriyel Ornek.csproj.CoreCompileInputs.cache
+G:\ykg\github\Faktoriyel Ornek\Faktoriyel Ornek\obj\Debug\net5.0-windows\Faktoriyel Ornek.dll
+G:\ykg\github\Faktoriyel Ornek\Faktoriyel Ornek\obj\Debug\net5.0-windows\ref\Faktoriyel Ornek.dll
+G:\ykg\github\Faktoriyel Ornek\Faktoriyel Ornek\obj\Debug\net5.0-windows\Faktoriyel Ornek.pdb
+G:\ykg\github\Faktoriyel Ornek\Faktoriyel Ornek\obj\Debug\net5.0-windows\Faktoriyel Ornek.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+G:\ykg\github\Double Aritmetik\Double Aritmetik\bin\Debug\Double Aritmetik.exe.config
+G:\ykg\github\Double Aritmetik\Double Aritmetik\bin\Debug\Double Aritmetik.exe
+G:\ykg\github\Double Aritmetik\Double Aritmetik\bin\Debug\Double Aritmetik.pdb
+G:\ykg\github\Double Aritmetik\Double Aritmetik\obj\Debug\Double_Aritmetik.Form1.resources
+G:\ykg\github\Double Aritmetik\Double Aritmetik\obj\Debug\Double_Aritmetik.Properties.Resources.resources
+G:\ykg\github\Double Aritmetik\Double Aritmetik\obj\Debug\Double Aritmetik.csproj.GenerateResource.cache
+G:\ykg\github\Double Aritmetik\Double Aritmetik\obj\Debug\Double Aritmetik.csproj.CoreCompileInputs.cache
+G:\ykg\github\Double Aritmetik\Double Aritmetik\obj\Debug\Double Aritmetik.exe
+G:\ykg\github\Double Aritmetik\Double Aritmetik\obj\Debug\Double Aritmetik.pdb

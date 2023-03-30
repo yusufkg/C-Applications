@@ -1,0 +1,9 @@
+G:\ykg\github\C-Sharp-Application\MenuStrip\MenuStrip\bin\Debug\MenuStrip.exe.config
+G:\ykg\github\C-Sharp-Application\MenuStrip\MenuStrip\bin\Debug\MenuStrip.exe
+G:\ykg\github\C-Sharp-Application\MenuStrip\MenuStrip\bin\Debug\MenuStrip.pdb
+G:\ykg\github\C-Sharp-Application\MenuStrip\MenuStrip\obj\Debug\MenuStrip.Form1.resources
+G:\ykg\github\C-Sharp-Application\MenuStrip\MenuStrip\obj\Debug\MenuStrip.Properties.Resources.resources
+G:\ykg\github\C-Sharp-Application\MenuStrip\MenuStrip\obj\Debug\MenuStrip.csproj.GenerateResource.cache
+G:\ykg\github\C-Sharp-Application\MenuStrip\MenuStrip\obj\Debug\MenuStrip.csproj.CoreCompileInputs.cache
+G:\ykg\github\C-Sharp-Application\MenuStrip\MenuStrip\obj\Debug\MenuStrip.exe
+G:\ykg\github\C-Sharp-Application\MenuStrip\MenuStrip\obj\Debug\MenuStrip.pdb

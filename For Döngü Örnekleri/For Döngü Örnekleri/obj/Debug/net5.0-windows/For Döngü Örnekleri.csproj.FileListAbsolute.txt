@@ -1,0 +1,18 @@
+G:\ykg\github\For Döngü Örnekleri\For Döngü Örnekleri\bin\Debug\net5.0-windows\For Döngü Örnekleri.exe
+G:\ykg\github\For Döngü Örnekleri\For Döngü Örnekleri\bin\Debug\net5.0-windows\For Döngü Örnekleri.deps.json
+G:\ykg\github\For Döngü Örnekleri\For Döngü Örnekleri\bin\Debug\net5.0-windows\For Döngü Örnekleri.runtimeconfig.json
+G:\ykg\github\For Döngü Örnekleri\For Döngü Örnekleri\bin\Debug\net5.0-windows\For Döngü Örnekleri.runtimeconfig.dev.json
+G:\ykg\github\For Döngü Örnekleri\For Döngü Örnekleri\bin\Debug\net5.0-windows\For Döngü Örnekleri.dll
+G:\ykg\github\For Döngü Örnekleri\For Döngü Örnekleri\bin\Debug\net5.0-windows\ref\For Döngü Örnekleri.dll
+G:\ykg\github\For Döngü Örnekleri\For Döngü Örnekleri\bin\Debug\net5.0-windows\For Döngü Örnekleri.pdb
+G:\ykg\github\For Döngü Örnekleri\For Döngü Örnekleri\obj\Debug\net5.0-windows\For Döngü Örnekleri.csproj.AssemblyReference.cache
+G:\ykg\github\For Döngü Örnekleri\For Döngü Örnekleri\obj\Debug\net5.0-windows\For_Döngü_Örnekleri.Form1.resources
+G:\ykg\github\For Döngü Örnekleri\For Döngü Örnekleri\obj\Debug\net5.0-windows\For Döngü Örnekleri.csproj.GenerateResource.cache
+G:\ykg\github\For Döngü Örnekleri\For Döngü Örnekleri\obj\Debug\net5.0-windows\For Döngü Örnekleri.GeneratedMSBuildEditorConfig.editorconfig
+G:\ykg\github\For Döngü Örnekleri\For Döngü Örnekleri\obj\Debug\net5.0-windows\For Döngü Örnekleri.AssemblyInfoInputs.cache
+G:\ykg\github\For Döngü Örnekleri\For Döngü Örnekleri\obj\Debug\net5.0-windows\For Döngü Örnekleri.AssemblyInfo.cs
+G:\ykg\github\For Döngü Örnekleri\For Döngü Örnekleri\obj\Debug\net5.0-windows\For Döngü Örnekleri.csproj.CoreCompileInputs.cache
+G:\ykg\github\For Döngü Örnekleri\For Döngü Örnekleri\obj\Debug\net5.0-windows\For Döngü Örnekleri.dll
+G:\ykg\github\For Döngü Örnekleri\For Döngü Örnekleri\obj\Debug\net5.0-windows\ref\For Döngü Örnekleri.dll
+G:\ykg\github\For Döngü Örnekleri\For Döngü Örnekleri\obj\Debug\net5.0-windows\For Döngü Örnekleri.pdb
+G:\ykg\github\For Döngü Örnekleri\For Döngü Örnekleri\obj\Debug\net5.0-windows\For Döngü Örnekleri.genruntimeconfig.cache

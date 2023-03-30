@@ -1,0 +1,9 @@
+G:\ykg\github\C-Sharp-Application\Sınav Net Hesaplama\Sınav Net Hesaplama\bin\Debug\Sınav Net Hesaplama.exe.config
+G:\ykg\github\C-Sharp-Application\Sınav Net Hesaplama\Sınav Net Hesaplama\bin\Debug\Sınav Net Hesaplama.exe
+G:\ykg\github\C-Sharp-Application\Sınav Net Hesaplama\Sınav Net Hesaplama\bin\Debug\Sınav Net Hesaplama.pdb
+G:\ykg\github\C-Sharp-Application\Sınav Net Hesaplama\Sınav Net Hesaplama\obj\Debug\Sınav_Net_Hesaplama.Form1.resources
+G:\ykg\github\C-Sharp-Application\Sınav Net Hesaplama\Sınav Net Hesaplama\obj\Debug\Sınav_Net_Hesaplama.Properties.Resources.resources
+G:\ykg\github\C-Sharp-Application\Sınav Net Hesaplama\Sınav Net Hesaplama\obj\Debug\Sınav Net Hesaplama.csproj.GenerateResource.cache
+G:\ykg\github\C-Sharp-Application\Sınav Net Hesaplama\Sınav Net Hesaplama\obj\Debug\Sınav Net Hesaplama.csproj.CoreCompileInputs.cache
+G:\ykg\github\C-Sharp-Application\Sınav Net Hesaplama\Sınav Net Hesaplama\obj\Debug\Sınav Net Hesaplama.exe
+G:\ykg\github\C-Sharp-Application\Sınav Net Hesaplama\Sınav Net Hesaplama\obj\Debug\Sınav Net Hesaplama.pdb

@@ -1,0 +1,9 @@
+G:\ykg\github\C-Sharp-Application\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe.config
+G:\ykg\github\C-Sharp-Application\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe
+G:\ykg\github\C-Sharp-Application\Fibonacci\Fibonacci\bin\Debug\Fibonacci.pdb
+G:\ykg\github\C-Sharp-Application\Fibonacci\Fibonacci\obj\Debug\Fibonacci.Form1.resources
+G:\ykg\github\C-Sharp-Application\Fibonacci\Fibonacci\obj\Debug\Fibonacci.Properties.Resources.resources
+G:\ykg\github\C-Sharp-Application\Fibonacci\Fibonacci\obj\Debug\Fibonacci.csproj.GenerateResource.cache
+G:\ykg\github\C-Sharp-Application\Fibonacci\Fibonacci\obj\Debug\Fibonacci.csproj.CoreCompileInputs.cache
+G:\ykg\github\C-Sharp-Application\Fibonacci\Fibonacci\obj\Debug\Fibonacci.exe
+G:\ykg\github\C-Sharp-Application\Fibonacci\Fibonacci\obj\Debug\Fibonacci.pdb

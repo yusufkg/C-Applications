@@ -1,0 +1,9 @@
+G:\ykg\github\C-Sharp-Application\Mod Alma\Mod Alma\bin\Debug\Mod Alma.exe.config
+G:\ykg\github\C-Sharp-Application\Mod Alma\Mod Alma\bin\Debug\Mod Alma.exe
+G:\ykg\github\C-Sharp-Application\Mod Alma\Mod Alma\bin\Debug\Mod Alma.pdb
+G:\ykg\github\C-Sharp-Application\Mod Alma\Mod Alma\obj\Debug\Mod_Alma.Form1.resources
+G:\ykg\github\C-Sharp-Application\Mod Alma\Mod Alma\obj\Debug\Mod_Alma.Properties.Resources.resources
+G:\ykg\github\C-Sharp-Application\Mod Alma\Mod Alma\obj\Debug\Mod Alma.csproj.GenerateResource.cache
+G:\ykg\github\C-Sharp-Application\Mod Alma\Mod Alma\obj\Debug\Mod Alma.csproj.CoreCompileInputs.cache
+G:\ykg\github\C-Sharp-Application\Mod Alma\Mod Alma\obj\Debug\Mod Alma.exe
+G:\ykg\github\C-Sharp-Application\Mod Alma\Mod Alma\obj\Debug\Mod Alma.pdb

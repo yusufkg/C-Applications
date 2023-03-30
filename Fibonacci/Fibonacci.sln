@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "Fibonacci\Fibonacci.csproj", "{B0135EB1-1CD5-49B7-8B8E-161ECDAD0753}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0135EB1-1CD5-49B7-8B8E-161ECDAD0753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0135EB1-1CD5-49B7-8B8E-161ECDAD0753}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0135EB1-1CD5-49B7-8B8E-161ECDAD0753}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0135EB1-1CD5-49B7-8B8E-161ECDAD0753}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8E1C34D-1985-467A-B0B9-27D02B767E97}
+	EndGlobalSection
+EndGlobal

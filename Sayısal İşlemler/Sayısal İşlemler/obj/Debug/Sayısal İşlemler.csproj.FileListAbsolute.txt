@@ -1,0 +1,9 @@
+G:\ykg\github\C-Sharp-Application\Sayısal İşlemler\Sayısal İşlemler\bin\Debug\Sayısal İşlemler.exe.config
+G:\ykg\github\C-Sharp-Application\Sayısal İşlemler\Sayısal İşlemler\bin\Debug\Sayısal İşlemler.exe
+G:\ykg\github\C-Sharp-Application\Sayısal İşlemler\Sayısal İşlemler\bin\Debug\Sayısal İşlemler.pdb
+G:\ykg\github\C-Sharp-Application\Sayısal İşlemler\Sayısal İşlemler\obj\Debug\Sayısal_İşlemler.Form1.resources
+G:\ykg\github\C-Sharp-Application\Sayısal İşlemler\Sayısal İşlemler\obj\Debug\Sayısal_İşlemler.Properties.Resources.resources
+G:\ykg\github\C-Sharp-Application\Sayısal İşlemler\Sayısal İşlemler\obj\Debug\Sayısal İşlemler.csproj.GenerateResource.cache
+G:\ykg\github\C-Sharp-Application\Sayısal İşlemler\Sayısal İşlemler\obj\Debug\Sayısal İşlemler.csproj.CoreCompileInputs.cache
+G:\ykg\github\C-Sharp-Application\Sayısal İşlemler\Sayısal İşlemler\obj\Debug\Sayısal İşlemler.exe
+G:\ykg\github\C-Sharp-Application\Sayısal İşlemler\Sayısal İşlemler\obj\Debug\Sayısal İşlemler.pdb
