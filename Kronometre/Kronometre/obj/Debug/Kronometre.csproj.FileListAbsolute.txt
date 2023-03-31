@@ -1,0 +1,10 @@
+G:\ykg\github\C-Sharp-Application\Kronometre\Kronometre\bin\Debug\Kronometre.exe.config
+G:\ykg\github\C-Sharp-Application\Kronometre\Kronometre\bin\Debug\Kronometre.exe
+G:\ykg\github\C-Sharp-Application\Kronometre\Kronometre\bin\Debug\Kronometre.pdb
+G:\ykg\github\C-Sharp-Application\Kronometre\Kronometre\obj\Debug\Kronometre.csproj.AssemblyReference.cache
+G:\ykg\github\C-Sharp-Application\Kronometre\Kronometre\obj\Debug\Kronometre.Form1.resources
+G:\ykg\github\C-Sharp-Application\Kronometre\Kronometre\obj\Debug\Kronometre.Properties.Resources.resources
+G:\ykg\github\C-Sharp-Application\Kronometre\Kronometre\obj\Debug\Kronometre.csproj.GenerateResource.cache
+G:\ykg\github\C-Sharp-Application\Kronometre\Kronometre\obj\Debug\Kronometre.csproj.CoreCompileInputs.cache
+G:\ykg\github\C-Sharp-Application\Kronometre\Kronometre\obj\Debug\Kronometre.exe
+G:\ykg\github\C-Sharp-Application\Kronometre\Kronometre\obj\Debug\Kronometre.pdb

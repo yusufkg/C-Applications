@@ -17,3 +17,4 @@ G:\ykg\github\C-Sharp-Application\Seyahat Örnek\Seyahat Örnek\obj\Debug\net5.0
 G:\ykg\github\C-Sharp-Application\Seyahat Örnek\Seyahat Örnek\obj\Debug\net5.0-windows\ref\Seyahat Örnek.dll
 G:\ykg\github\C-Sharp-Application\Seyahat Örnek\Seyahat Örnek\obj\Debug\net5.0-windows\Seyahat Örnek.pdb
 G:\ykg\github\C-Sharp-Application\Seyahat Örnek\Seyahat Örnek\obj\Debug\net5.0-windows\Seyahat Örnek.genruntimeconfig.cache
+G:\ykg\github\C-Sharp-Application\Seyahat Örnek\Seyahat Örnek\obj\Debug\net5.0-windows\Seyahat_Örnek.Form3.resources

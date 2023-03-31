@@ -1,0 +1,10 @@
+G:\ykg\github\C-Sharp-Application\Sayaç Timer\Sayaç Timer\obj\Debug\Sayaç Timer.csproj.AssemblyReference.cache
+G:\ykg\github\C-Sharp-Application\Sayaç Timer\Sayaç Timer\obj\Debug\Sayaç_Timer.Form1.resources
+G:\ykg\github\C-Sharp-Application\Sayaç Timer\Sayaç Timer\obj\Debug\Sayaç_Timer.Properties.Resources.resources
+G:\ykg\github\C-Sharp-Application\Sayaç Timer\Sayaç Timer\obj\Debug\Sayaç Timer.csproj.GenerateResource.cache
+G:\ykg\github\C-Sharp-Application\Sayaç Timer\Sayaç Timer\obj\Debug\Sayaç Timer.csproj.CoreCompileInputs.cache
+G:\ykg\github\C-Sharp-Application\Sayaç Timer\Sayaç Timer\bin\Debug\Sayaç Timer.exe.config
+G:\ykg\github\C-Sharp-Application\Sayaç Timer\Sayaç Timer\bin\Debug\Sayaç Timer.exe
+G:\ykg\github\C-Sharp-Application\Sayaç Timer\Sayaç Timer\bin\Debug\Sayaç Timer.pdb
+G:\ykg\github\C-Sharp-Application\Sayaç Timer\Sayaç Timer\obj\Debug\Sayaç Timer.exe
+G:\ykg\github\C-Sharp-Application\Sayaç Timer\Sayaç Timer\obj\Debug\Sayaç Timer.pdb

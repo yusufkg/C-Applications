@@ -1,0 +1,10 @@
+G:\ykg\github\C-Sharp-Application\Trafik Lambaları\Trafik Lambaları\bin\Debug\Trafik Lambaları.exe.config
+G:\ykg\github\C-Sharp-Application\Trafik Lambaları\Trafik Lambaları\bin\Debug\Trafik Lambaları.exe
+G:\ykg\github\C-Sharp-Application\Trafik Lambaları\Trafik Lambaları\bin\Debug\Trafik Lambaları.pdb
+G:\ykg\github\C-Sharp-Application\Trafik Lambaları\Trafik Lambaları\obj\Debug\Trafik_Lambaları.Form1.resources
+G:\ykg\github\C-Sharp-Application\Trafik Lambaları\Trafik Lambaları\obj\Debug\Trafik_Lambaları.Properties.Resources.resources
+G:\ykg\github\C-Sharp-Application\Trafik Lambaları\Trafik Lambaları\obj\Debug\Trafik Lambaları.csproj.GenerateResource.cache
+G:\ykg\github\C-Sharp-Application\Trafik Lambaları\Trafik Lambaları\obj\Debug\Trafik Lambaları.csproj.CoreCompileInputs.cache
+G:\ykg\github\C-Sharp-Application\Trafik Lambaları\Trafik Lambaları\obj\Debug\Trafik Lambaları.exe
+G:\ykg\github\C-Sharp-Application\Trafik Lambaları\Trafik Lambaları\obj\Debug\Trafik Lambaları.pdb
+G:\ykg\github\C-Sharp-Application\Trafik Lambaları\Trafik Lambaları\obj\Debug\Trafik Lambaları.csproj.AssemblyReference.cache

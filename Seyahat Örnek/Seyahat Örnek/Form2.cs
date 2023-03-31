@@ -24,6 +24,32 @@ namespace Seyahat_Örnek
             listBox3.Items.Add(textBox2.Text);
             listBox4.Items.Add(comboBox1.Text);
             listBox6.Items.Add(comboBox2.Text);
+            if (radioButton1.Checked==true)
+            {
+                listBox5.Items.Add(radioButton1.Text);
+            }
+            if (radioButton2.Checked==true)
+            {
+                listBox5.Items.Add(radioButton2.Text);
+            }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            listBox7.Items.Add("2");
+            listBox2.Items.Add(textBox1.Text);
+            listBox3.Items.Add(textBox2.Text);
+            listBox4.Items.Add(comboBox1.Text);
+            listBox6.Items.Add(comboBox2.Text);
+            if (radioButton1.Checked == true)
+            {
+                listBox5.Items.Add(radioButton1.Text);
+            }
+            if (radioButton2.Checked == true)
+            {
+                listBox5.Items.Add(radioButton2.Text);
+            }
+
         }
     }
 }
