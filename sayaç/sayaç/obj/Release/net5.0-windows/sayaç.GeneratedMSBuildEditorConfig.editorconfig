@@ -14,10 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = sayaç
-<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\yusuf\OneDrive\Masaüstü\yusuf\Github\C sharp Application\sayaç\sayaç\
-=======
-build_property.ProjectDir = C:\Users\yusuf\OneDrive\Masaüstü\yusuf\web tasarım\Github\C sharp application\sayaç\sayaç\
->>>>>>> dd42b9300a37d84435e8c80e36b769fe141f0fb4
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

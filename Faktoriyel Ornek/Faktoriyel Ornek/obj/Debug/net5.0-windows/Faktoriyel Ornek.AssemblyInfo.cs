@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Faktoriyel Ornek")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b22faaf119a2cf85035389e3d6a11d3dc12ef0e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Faktoriyel Ornek")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Faktoriyel Ornek")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
